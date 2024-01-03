@@ -7,18 +7,18 @@ HubMd serves as a markdown reference for web-developement and software engineeri
 
 ## Table of Contents
 
-[DevOps]
+[ DevOps ]
 
-[CDN](./Hub/DevOps/CDN.md)
+* [CDN](./Hub/DevOps/CDN.md)
 
-[Dev Links](./Hub/DevOps/DevLinks.md)
+* [Dev Links](./Hub/DevOps/DevLinks.md)
 
-[Extensions](./Hub/DevOps/Extensions.md)
+* [Extensions](./Hub/DevOps/Extensions.md)
 
 
-[FAQs]
+[ FAQs ]
 
-[Terminal](./Hub/FAQ/Terminal.md)
+* [Terminal](./Hub/FAQ/Terminal.md)
 
-[VS Code](./Hub/FAQ/VS_Code.md)
+* [VS Code](./Hub/FAQ/VS_Code.md)
 
