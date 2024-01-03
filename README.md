@@ -10,3 +10,5 @@ HubMd serves as a markdown reference for web-developement and software engineeri
 [CDN](./Hub/CDN.md)
 
 [Dev Links](./Hub/DevLinks.md)
+
+[Extensions](./Hub/Extensions.md)
