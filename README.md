@@ -15,6 +15,8 @@ HubMd serves as a markdown reference for web-developement and software engineeri
 
 * [Extensions](./Hub/DevOps/Extensions.md)
 
+* [Snippets](./Hub/DevOps/Snippets.md)
+
 
 [ FAQs ]
 
