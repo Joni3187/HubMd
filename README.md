@@ -3,9 +3,21 @@
 ## About
 
 HubMd serves as a markdown reference for web-developement and software engineering.
+Includes Component MD references and CDN. 
 
 
-## Table of Contents
+## Components
+
+[ Components ]
+
+* [Bootstrap Footer 01](./Components/Bootstrap/bs_footer.md)
+
+* [Vanilla NavBar 01](./Components/NavBars/navbar.md)
+
+* [Vanilla Footer 01](./Components/NavBars/footer.md)
+
+
+## DevOps
 
 [ DevOps ]
 
@@ -17,6 +29,8 @@ HubMd serves as a markdown reference for web-developement and software engineeri
 
 * [Snippets](./Hub/DevOps/Snippets.md)
 
+
+## FAQs
 
 [ FAQs ]
 
