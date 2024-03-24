@@ -20,6 +20,8 @@ https://fonts.google.com/
 
 ## PT Serif 
 
+### HTML 
+
 ``` html
 
 <!-- PT Serif - GF -->
@@ -30,6 +32,7 @@ https://fonts.google.com/
 
 ```
 
+### CSS
 
 ``` css
 
@@ -63,6 +66,7 @@ https://fonts.google.com/
 
 ## Dancing Script - Cursive
 
+### HTML 
 
 ``` html
 
@@ -73,6 +77,8 @@ https://fonts.google.com/
 
 
 ```
+
+### CSS
 
 ``` css
 
