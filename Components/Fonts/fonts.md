@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-[About](#)
-[Google-Fonts](#)
-[PT Serif](#)
-[Dancing-Script](#)
+[About](#about)
+[Google-Fonts](#google-fonts)
+[PT Serif](#pt-serif)
+[Dancing-Script](#dancing-script---cursive)
 
 
 ## About
