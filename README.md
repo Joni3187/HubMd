@@ -13,8 +13,8 @@ Includes Component MD references and CDN.
 | -------------- | --------------- | --------------- |
 | [BS Components](./Components/Bootstrap/bootstrap.md)   | [CDN](./Hub/DevOps/CDN.md)    | [Terminal](./Hub/FAQ/Terminal.md)    |
 | [Google Fonts](./Components/Fonts/fonts.md)   | [DevLinks](./Hub/DevOps/DevLinks.md)    | [VS_Code](./Hub/FAQ/VS_Code.md)    |
-| [Vanilla Components](.)   | [Extensions](./Hub/DevOps/Extensions.md)    | Row 3, Col 3    |
-| [Bootstrap Footer 01](.)   | [Snippets](./Hub/DevOps/Snippets.md)    | Row 3, Col 3    |
+| Row3, Col 1   | [Extensions](./Hub/DevOps/Extensions.md)    | Row 3, Col 3    |
+| Row3, Col 1   | [Snippets](./Hub/DevOps/Snippets.md)    | Row 3, Col 3    |
 
 
 
