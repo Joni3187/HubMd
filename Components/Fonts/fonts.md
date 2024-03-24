@@ -3,8 +3,11 @@
 ## Table of Contents
 
 [About](#about)
+
 [Google-Fonts](#google-fonts)
+
 [PT Serif](#pt-serif)
+
 [Dancing-Script](#dancing-script---cursive)
 
 
@@ -20,7 +23,7 @@ https://fonts.google.com/
 
 ## PT Serif 
 
-### HTML 
+### HTML CDN
 
 ``` html
 
@@ -66,7 +69,7 @@ https://fonts.google.com/
 
 ## Dancing Script - Cursive
 
-### HTML 
+### HTML CDN
 
 ``` html
 
