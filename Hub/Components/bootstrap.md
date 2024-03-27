@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-[About](#about)
-[CDN](#content-delivery-network)
-[Nav-Footer](#nav-footer-bs)
-[Cards-Flex](#cards---flex)
+- [About](#about)
+- [CDN](#content-delivery-network)
+- [Nav-Footer](#nav-footer-bs)
+- [Cards-Flex](#cards---flex)
 
 
 ## About

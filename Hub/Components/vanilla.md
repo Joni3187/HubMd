@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-[About](#about)
-[NavBar Header](#navbar-header)
-[NavBar Footer](#navbar-footer)
+- [About](#about)
+- [NavBar Header](#navbar-header)
+- [NavBar Footer](#navbar-footer)
 
 
 ## About
