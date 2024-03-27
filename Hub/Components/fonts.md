@@ -3,22 +3,36 @@
 ## Table of Contents
 
 [About](#about)
-
 [Google-Fonts](#google-fonts)
-
 [PT Serif](#pt-serif)
-
 [Dancing-Script](#dancing-script---cursive)
 
 
 ## About
 
 About this project...
-Sarif Fonts
 
-## Google-Fonts
+[ Google Fonts ] https://fonts.google.com/
 
-https://fonts.google.com/
+
+Google Fonts: Top 3 Fonts
+- Open Sans
+- Alegreya
+- Roboto
+
+Serif: Popular Fonts
+- Merriweather
+- Libre Baskerville
+- Playfair Display
+
+Sans-Serif: Popular Fonts
+- Lato
+- Montserrat
+- Oswald
+
+
+
+
 
 
 ## PT Serif 
